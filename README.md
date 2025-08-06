@@ -26,6 +26,7 @@
 - [Course Overview](#-course-overview)
 - [Progress Tracker](#-progress-tracker)
 - [Featured Projects](#-featured-projects)
+- [Getting Started](#-getting-started)
 - [Resources](#-resources)
 - [Course Certificate](#-course-certificate)
 
@@ -114,9 +115,3 @@ python main.py
 Once I complete the full 100 Days of Code, I’ll add the Udemy certificate here.
 
 ---
-
-> 💬 *"The only way to learn a new programming language is by writing programs in it."*  
-> — **Dennis Ritchie**
-
----
-
