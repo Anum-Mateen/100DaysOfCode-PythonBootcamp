@@ -6,7 +6,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/Anum-Mateen/100DaysOfCode-PythonBootcamp)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/100-days-of-code/main/assets/banner.png" alt="100 Days of Code Banner" width="700"/>
+  <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ldv8h0r63zyh51mcqrb.jpg" alt="100 Days of Code Banner" width="700"/>
 </p>
 
 ---
