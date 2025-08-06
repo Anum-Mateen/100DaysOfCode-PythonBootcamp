@@ -61,18 +61,18 @@
 
 ## 📊 Progress Tracker
 
-| Day  | Project | Description | Level        | Status      |
-|------|--------------------------------------|--------------|-------------|
-| ✅   |[Band Name Generator](Day_01_Band_Name_Generator) | Combine city and pet names | 🟢 Beginner   | ✔️ Completed |
-| ⬜   |[Tip Calculator](Day_02_Tip_Calculator) | Split bills with tips | 🟢 Beginner   | ⬜ To Do     |
-| ⬜   | Day 03 - Treasure Island Game        | 🟢 Beginner   | ⬜ To Do     |
-| ⬜   | Day 04 - Rock Paper Scissors         | 🟢 Beginner   | ⬜ To Do     |
-| ⬜   | Day 05 - Password Generator          | 🟢 Beginner   | ⬜ To Do     |
-| ⬜   | Day 06 - Escaping the Maze           | 🟡 Intermediate | ⬜ To Do     |
-| ⬜   | Day 07 - Hangman                     | 🟢 Beginner   | ⬜ To Do     |
-| ⬜   | Day 08 - Caesar Cipher               | 🟡 Intermediate | ⬜ To Do     |
-| ...  | ...                                  | ...          | ...         |
-| ⬜   | Day 100 - Professional Portfolio Project | 🔴 Advanced | ⬜ To Do     |
+| Day  | Project                                                                 | Description               | Level          | Status      |
+|------|-------------------------------------------------------------------------|---------------------------|----------------|-------------|
+| ✅   | [Band Name Generator](Day_01_Band_Name_Generator)                       | Combine city and pet names| 🟢 Beginner     | ✔️ Completed |
+| ⬜   | [Tip Calculator](Day_02_Tip_Calculator)                                  | Split bills with tips     | 🟢 Beginner     | ⬜ To Do     |
+| ⬜   | Day 03 - Treasure Island Game                                            | Text-based adventure game | 🟢 Beginner     | ⬜ To Do     |
+| ⬜   | Day 04 - Rock Paper Scissors                                             | Classic game in Python    | 🟢 Beginner     | ⬜ To Do     |
+| ⬜   | Day 05 - Password Generator                                              | Generate secure passwords | 🟢 Beginner     | ⬜ To Do     |
+| ⬜   | Day 06 - Escaping the Maze                                               | Control robot in a maze   | 🟡 Intermediate | ⬜ To Do     |
+| ⬜   | Day 07 - Hangman                                                         | Word guessing game        | 🟢 Beginner     | ⬜ To Do     |
+| ⬜   | Day 08 - Caesar Cipher                                                   | Encode/decode messages    | 🟡 Intermediate | ⬜ To Do     |
+| ...  | ...                                                                     | ...                       | ...            | ...         |
+| ⬜   | Day 100 - Professional Portfolio Project                                 | Final capstone project    | 🔴 Advanced     | ⬜ To Do     |
 
 > 🏁 Goal: 100/100 Projects — One Project a Day
 
