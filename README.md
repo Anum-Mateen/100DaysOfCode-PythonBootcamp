@@ -22,6 +22,15 @@
 
 ---
 
+## 🔍 Table of Contents
+- [Course Overview](#-course-overview)
+- [Progress Tracker](#-progress-tracker)
+- [Featured Projects](#-featured-projects)
+- [Resources](#-resources)
+- [Course Certificate](#-course-certificate)
+
+---
+
 ## 🧠 What You'll Find Here
 
 - 🚀 100 Python Projects (Daily challenges)
@@ -32,7 +41,7 @@
 
 ---
 
-## 🔍 Course Structure
+## 🔍 Course Overview
 
 🧩 Based on the [100 Days of Code Challenge](https://www.100daysofcode.com/), this course includes:
 
@@ -49,7 +58,7 @@
 
 ---
 
-## 📅 Progress Tracker
+## 📊 Progress Tracker
 
 | Day  | Project                              | Level        | Status      |
 |------|--------------------------------------|--------------|-------------|
@@ -65,6 +74,29 @@
 | ⬜   | Day 100 - Professional Portfolio Project | 🔴 Advanced | ⬜ To Do     |
 
 > 🏁 Goal: 100/100 Projects — One Project a Day
+
+---
+
+## 🌟 Featured Projects
+1. **Hangman Game** ([Day 7](Day_07_Hangman))  
+   Python implementation of classic word guessing game with ASCII art
+   
+2. **Coffee Machine Simulator** ([Day 15](Day_15_Coffee_Machine))  
+   OOP-based system handling resource management and transactions
+
+---
+
+## 🚀 Getting Started
+To run any project:
+```bash
+# Navigate to project folder
+cd Day_XX_ProjectName
+
+# Install requirements (if any)
+pip install -r requirements.txt
+
+# Execute main file
+python main.py
 
 ---
 
