@@ -5,6 +5,13 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Anum-Mateen/100DaysOfCode-PythonBootcamp)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Anum-Mateen/100DaysOfCode-PythonBootcamp)
 
+---
+
+> 💬 *"The only way to learn a new programming language is by writing programs in it."*  
+> — **Dennis Ritchie**
+
+---
+
 <p align="center">
   <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4ldv8h0r63zyh51mcqrb.jpg" alt="100 Days of Code Banner" width="700"/>
 </p>
@@ -58,6 +65,20 @@
 | ⬜   | Day 100 - Professional Portfolio Project | 🔴 Advanced | ⬜ To Do     |
 
 > 🏁 Goal: 100/100 Projects — One Project a Day
+
+---
+
+## 📎 Resources
+
+- 🔗 [Official Course: 100 Days of Code – Angela Yu](https://www.udemy.com/course/100-days-of-code/)
+- 🔗 [Python Docs](https://docs.python.org/3/)
+- 🔗 [W3Schools Python](https://www.w3schools.com/python/)
+- 🔗 [Real Python](https://realpython.com/)
+
+---
+
+## 📜 Course Certificate (Coming Soon)
+Once I complete the full 100 Days of Code, I’ll add the Udemy certificate here.
 
 ---
 
