@@ -97,6 +97,7 @@ pip install -r requirements.txt
 
 # Execute main file
 python main.py
+```
 
 ---
 
