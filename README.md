@@ -61,10 +61,10 @@
 
 ## 📊 Progress Tracker
 
-| Day  | Project                              | Level        | Status      |
+| Day  | Project | Description | Level        | Status      |
 |------|--------------------------------------|--------------|-------------|
-| ✅   | Day 01 - Band Name Generator         | 🟢 Beginner   | ✔️ Completed |
-| ⬜   | Day 02 - Tip Calculator              | 🟢 Beginner   | ⬜ To Do     |
+| ✅   |[Band Name Generator](Day_01_Band_Name_Generator) | Combine city and pet names | 🟢 Beginner   | ✔️ Completed |
+| ⬜   |[Tip Calculator](Day_02_Tip_Calculator) | Split bills with tips | 🟢 Beginner   | ⬜ To Do     |
 | ⬜   | Day 03 - Treasure Island Game        | 🟢 Beginner   | ⬜ To Do     |
 | ⬜   | Day 04 - Rock Paper Scissors         | 🟢 Beginner   | ⬜ To Do     |
 | ⬜   | Day 05 - Password Generator          | 🟢 Beginner   | ⬜ To Do     |
