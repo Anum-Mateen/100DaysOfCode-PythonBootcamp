@@ -5,6 +5,10 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Anum-Mateen/100DaysOfCode-PythonBootcamp)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Anum-Mateen/100DaysOfCode-PythonBootcamp)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saadeghi/100-days-of-code/main/assets/banner.png" alt="100 Days of Code Banner" width="700"/>
+</p>
+
 ---
 
 > This repository contains my **100-day Python journey** as I progress through the popular [Angela Yu's Python Bootcamp](https://www.udemy.com/course/100-days-of-code/). Each day comes with a fully built **project**, designed to reinforce key Python concepts — from beginner to advanced levels.
@@ -56,3 +60,9 @@
 > 🏁 Goal: 100/100 Projects — One Project a Day
 
 ---
+
+> 💬 *"The only way to learn a new programming language is by writing programs in it."*  
+> — **Dennis Ritchie**
+
+---
+
