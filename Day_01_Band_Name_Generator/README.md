@@ -7,7 +7,7 @@ This is a simple and fun Python project that helps users create a band name by c
 - The city they grew up in
 - The name of a pet
 
-This is the very first project from the **100 Days of Code: Python Bootcamp by Angela Yu**. It covers basic concepts like printing, user input, and string manipulation — a great starting point for beginners.
+This is the very first project from the **100 Days of Code: Python Bootcamp by Angela Yu**. It covers basic concepts like printing, user input, variables, and string manipulation — a great starting point for beginners.
 
 ---
 
