@@ -63,9 +63,9 @@
 
 | Day  | Project                                                                 | Description               | Level          | Status      |
 |------|-------------------------------------------------------------------------|---------------------------|----------------|-------------|
-| ✅   | [Band Name Generator](Day_01_Band_Name_Generator)                       | Combine city and pet names| 🟢 Beginner     | ✔️ Completed |
-| ⬜   | [Tip Calculator](Day_02_Tip_Calculator)                                  | Split bills with tips     | 🟢 Beginner     | ⬜ To Do     |
-| ⬜   | Day 03 - Treasure Island Game                                            | Text-based adventure game | 🟢 Beginner     | ⬜ To Do     |
+| ✅   | [Day 01 - Band Name Generator](Day_01_Band_Name_Generator)              | Combine city and pet names| 🟢 Beginner     | ✔️ Completed |
+| ✅   | [Day 02 - Tip Calculator](Day_02_Tip_Calculator)                        | Split bills with tips     | 🟢 Beginner     | ✔️ Completed |
+| ⬜   | [Day 03 - Treasure Island Game](Day_03_Treasure_Island_Game)            | Text-based adventure game | 🟢 Beginner     | ⬜ To Do     |
 | ⬜   | Day 04 - Rock Paper Scissors                                             | Classic game in Python    | 🟢 Beginner     | ⬜ To Do     |
 | ⬜   | Day 05 - Password Generator                                              | Generate secure passwords | 🟢 Beginner     | ⬜ To Do     |
 | ⬜   | Day 06 - Escaping the Maze                                               | Control robot in a maze   | 🟡 Intermediate | ⬜ To Do     |
