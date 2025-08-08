@@ -23,9 +23,7 @@ This is the third project from the **100 Days of Code: Python Bootcamp by Angela
 
 The game's logic follows a flowchart-based decision tree.
 
-```markdown
 ![Game Flowchart](flowchart.png)
-```
 
 ---
 
