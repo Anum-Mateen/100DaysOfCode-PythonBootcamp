@@ -31,5 +31,5 @@ The game's logic follows a flowchart-based decision tree.
 
 Make sure you have Python installed. Then run the script in your terminal:
 
-bash
+```bash
 python main.py
