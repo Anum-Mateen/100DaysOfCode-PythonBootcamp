@@ -23,9 +23,7 @@ This is the third project from the **100 Days of Code: Python Bootcamp by Angela
 
 The game's logic follows a flowchart-based decision tree.
 
-```markdown
-![Game Flowchart](https://github.com/Anum-Mateen/100DaysOfCode-PythonBootcamp/blob/main/Day_03_Treasure_Island/flowchart.png)
-```
+![Game Flowchart](flowchart.png)
 
 ---
 
@@ -33,5 +31,5 @@ The game's logic follows a flowchart-based decision tree.
 
 Make sure you have Python installed. Then run the script in your terminal:
 
-bash
+```bash
 python main.py
