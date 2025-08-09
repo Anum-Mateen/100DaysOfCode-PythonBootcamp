@@ -61,26 +61,26 @@
 
 ## 📊 Progress Tracker
 
-| Day  | Project                                                                 | Description                         | Level           | Status       |
-|------|-------------------------------------------------------------------------|-------------------------------------|------------------|--------------|
-| ✅   | [Day 01 - Band Name Generator](Day_01_Band_Name_Generator)              | Combine city and pet names          | 🟢 Beginner       | ✔️ Completed |
-| ✅   | [Day 02 - Tip Calculator](Day_02_Tip_Calculator)                        | Split bills with tips               | 🟢 Beginner       | ✔️ Completed |
-| ✅   | [Day 03 - Treasure Island](Day_03_Treasure_Island)                      | Text-based adventure game           | 🟢 Beginner       | ✔️ Completed |
-| ⬜   | [Day 04 - Rock Paper Scissors](Day_04_Rock_Paper_Scissors)              | Classic game in Python              | 🟢 Beginner       | ⬜ To Do     |
-| ⬜   | [Day 05 - Password Generator](Day_05_Password_Generator)                | Generate secure passwords           | 🟢 Beginner       | ⬜ To Do     |
-| ⬜   | [Day 06 - Escaping the Maze](Day_06_Escaping_the_Maze)                  | Control robot in a maze             | 🟢 Beginner       | ⬜ To Do     |
-| ⬜   | [Day 07 - Hangman](Day_07_Hangman)                                      | Word guessing game                  | 🟢 Beginner       | ⬜ To Do     |
-| ⬜   | [Day 08 - Caesar Cipher](Day_08_Caesar_Cipher)                          | Encode/decode messages              | 🟢 Beginner       | ⬜ To Do     |
-| ⬜   | [Day 09 - Secret Auction](Day_09_Secret_Auction)                        | Bidding system with loop & logic    | 🟢 Beginner       | ⬜ To Do     |
-| ⬜   | [Day 10 - Calculator](Day_10_Calculator)                                | Basic arithmetic calculator         | 🟢 Beginner       | ⬜ To Do     |
-| ⬜   | [Day 11 - Blackjack Capstone](Day_11_Blackjack_Capstone)                | Console card game                   | 🟢 Beginner       | ⬜ To Do     |
-| ⬜   | [Day 12 - Number Guessing Game](Day_12_Number_Guessing_Game)            | Guess the number using loops        | 🟢 Beginner       | ⬜ To Do     |
-| ⬜   | [Day 13 - Debugging Challenges](Day_13_Debugging_Challenges)            | Odd/Even, Leap Year, FizzBuzz       | 🟢 Beginner       | ⬜ To Do     |
-| ⬜   | [Day 14 - Higher or Lower Game](Day_14_Higher_or_Lower_Game)            | Compare social media followers      | 🟢 Beginner       | ⬜ To Do     |
-| ⬜   | [Day 15 - Coffee Machine](Day_15_Coffee_Machine)                        | Simulate coffee orders              | 🟡 Intermediate   | ⬜ To Do     |
-| ⬜   | [Day 16 - Coffee Machine (OOP)](Day_16_Coffee_Machine_OOP)              | Object-oriented version of Day 15   | 🟡 Intermediate   | ⬜ To Do     |
-| ⬜   | [Day 17 - Quiz Project](Day_17_Quiz_Project)                            | Multiple choice quiz app            | 🟡 Intermediate   | ⬜ To Do     |
-| ⬜   | [Day 18 - Hirst Painting](Day_18_Hirst_Painting)                        | Generate dot paintings using Turtle | 🟡 Intermediate   | ⬜ To Do     |
+| Day  | Project                                                                 | Description                         | Level         | Status       |
+|------|-------------------------------------------------------------------------|-------------------------------------|----------------|--------------|
+| ✅   | [Day 01 - Band Name Generator](Day_01_Band_Name_Generator)              | Combine city and pet names          | 🟢 Beginner     | ✔️ Completed |
+| ✅   | [Day 02 - Tip Calculator](Day_02_Tip_Calculator)                        | Split bills with tips               | 🟢 Beginner     | ✔️ Completed |
+| ✅   | [Day 03 - Treasure Island](Day_03_Treasure_Island)                      | Text-based adventure game           | 🟢 Beginner     | ✔️ Completed |
+| ✅   | [Day 04 - Rock Paper Scissors](Day_04_Rock_Paper_Scissors)              | Classic game in Python              | 🟢 Beginner     | ✔️ Completed |
+| ⬜   | [Day 05 - Password Generator](Day_05_Password_Generator)                | Generate secure passwords           | 🟢 Beginner     | ⬜ To Do     |
+| ⬜   | [Day 06 - Escaping the Maze](Day_06_Escaping_the_Maze)                  | Control robot in a maze             | 🟢 Beginner     | ⬜ To Do     |
+| ⬜   | [Day 07 - Hangman](Day_07_Hangman)                                      | Word guessing game                  | 🟢 Beginner     | ⬜ To Do     |
+| ⬜   | [Day 08 - Caesar Cipher](Day_08_Caesar_Cipher)                          | Encode/decode messages              | 🟢 Beginner     | ⬜ To Do     |
+| ⬜   | [Day 09 - Secret Auction](Day_09_Secret_Auction)                        | Bidding system with loop & logic    | 🟢 Beginner     | ⬜ To Do     |
+| ⬜   | [Day 10 - Calculator](Day_10_Calculator)                                | Basic arithmetic calculator         | 🟢 Beginner     | ⬜ To Do     |
+| ⬜   | [Day 11 - Blackjack Capstone](Day_11_Blackjack_Capstone)                | Console card game                   | 🟢 Beginner     | ⬜ To Do     |
+| ⬜   | [Day 12 - Number Guessing Game](Day_12_Number_Guessing_Game)            | Guess the number using loops        | 🟢 Beginner     | ⬜ To Do     |
+| ⬜   | [Day 13 - Debugging Challenges](Day_13_Debugging_Challenges)            | Odd/Even, Leap Year, FizzBuzz       | 🟢 Beginner     | ⬜ To Do     |
+| ⬜   | [Day 14 - Higher or Lower Game](Day_14_Higher_or_Lower_Game)            | Compare social media followers      | 🟢 Beginner     | ⬜ To Do     |
+| ⬜   | [Day 15 - Coffee Machine](Day_15_Coffee_Machine)                        | Simulate coffee orders              | 🟡 Intermediate | ⬜ To Do     |
+| ⬜   | [Day 16 - Coffee Machine (OOP)](Day_16_Coffee_Machine_OOP)              | Object-oriented version of Day 15   | 🟡 Intermediate | ⬜ To Do     |
+| ⬜   | [Day 17 - Quiz Project](Day_17_Quiz_Project)                            | Multiple choice quiz app            | 🟡 Intermediate | ⬜ To Do     |
+| ⬜   | [Day 18 - Hirst Painting](Day_18_Hirst_Painting)                        | Generate dot paintings using Turtle | 🟡 Intermediate | ⬜ To Do     |
 | ...  | ...                                                                     | ...                                 | ...              | ...          |
 | ⬜   | [Day 100 - Professional Portfolio Project](Day_100_Portfolio_Project)   | Final capstone project              | 🔴 Advanced       | ⬜ To Do     |
 
