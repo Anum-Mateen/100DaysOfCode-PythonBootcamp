@@ -69,7 +69,7 @@
 | ✅   | [Day 04 - Rock Paper Scissors](Day_04_Rock_Paper_Scissors)              | Classic game in Python              | 🟢 Beginner     | ✔️ Completed |
 | ✅   | [Day 05 - Password Generator](Day_05_Password_Generator)                | Generate secure passwords           | 🟢 Beginner     | ✔️ Completed |
 | ✅   | [Day 06 - Escaping the Maze](Day_06_Escaping_the_Maze)                  | Control robot in a maze             | 🟢 Beginner     | ✔️ Completed |
-| ⬜   | [Day 07 - Hangman](Day_07_Hangman)                                      | Word guessing game                  | 🟢 Beginner     | ⬜ To Do     |
+| ✅   | [Day 07 - Hangman](Day_07_Hangman)                                      | Word guessing game                  | 🟢 Beginner     | ✔️ Completed |
 | ⬜   | [Day 08 - Caesar Cipher](Day_08_Caesar_Cipher)                          | Encode/decode messages              | 🟢 Beginner     | ⬜ To Do     |
 | ⬜   | [Day 09 - Secret Auction](Day_09_Secret_Auction)                        | Bidding system with loop & logic    | 🟢 Beginner     | ⬜ To Do     |
 | ⬜   | [Day 10 - Calculator](Day_10_Calculator)                                | Basic arithmetic calculator         | 🟢 Beginner     | ⬜ To Do     |
@@ -90,7 +90,7 @@
 
 ## 🌟 Featured Projects
 1. **Hangman Game** ([Day 7](Day_07_Hangman))  
-   Python implementation of classic word guessing game with ASCII art
+   Python implementation of the classic word guessing game with ASCII art
    
 2. **Coffee Machine Simulator** ([Day 15](Day_15_Coffee_Machine))  
    OOP-based system handling resource management and transactions
